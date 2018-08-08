@@ -1,3 +1,5 @@
+![](http://atomicdocs.dev2.travelline.ru/resources/images/tllogo.svg)
+
 # Для кого Playbook?
 
 Playbook - это биография, кодекс, стратегия развития студии веб-разразботки TravelLine.  

@@ -9,4 +9,4 @@
 - Bitrix
 - AMP, Яндекс Турбо-страницы
 - JSON-LD
-- Git
+- Git, git-flow

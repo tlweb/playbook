@@ -34,14 +34,14 @@ Playbook - это ресурс, на котором мы публикуем об
 
 # Полезные ссылки
 
-- [Миссия и ценности TLWeb] (https://github.com/tlweb/playbook/blob/master/mission-and-values.md)
-- [Достижения] (https://github.com/tlweb/playbook/blob/master/achievements.md)
-- [Технический блог] (https://github.com/tlweb/playbook/blob/master/articles.md)
+- [Миссия и ценности TLWeb](https://github.com/tlweb/playbook/blob/master/mission-and-values.md)
+- [Достижения](https://github.com/tlweb/playbook/blob/master/achievements.md)
+- [Технический блог](https://github.com/tlweb/playbook/blob/master/articles.md)
 - [Структура команд]
-- [Процессы и стандарты разработки] (https://github.com/tlweb/playbook/blob/master/processes-and-standards.md)
-- [Технический радар (скорее стек)]
+- [Процессы и стандарты разработки](https://github.com/tlweb/playbook/blob/master/processes-and-standards.md)
+- [Стек технологий]
 - [Условия работы]
-- [Как к нам попасть] - (Выполнить задание https://goo.gl/XgUo74) 
+- [Как к нам попасть](https://goo.gl/XgUo74) 
 - [Обучение и развитие в команде]
 - [История TLWeb] 
 - [Образовательные программы] 

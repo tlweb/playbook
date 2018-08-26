@@ -50,32 +50,32 @@ https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156
 
 #### Частные случаи:
 
-#### Sophos
+#### 1. Sophos
 
 Можно заполнить репорт на сайте:
 https://secure2.sophos.com/en-us/support/submit-a-sample.aspx
 
 Так как мы не клиенты Sophos, ждем максимум 5 рабочих дней (в действительности пришлось ждать около 7).
 
-#### BitDefender
+#### 2. BitDefender
 
 Можно заполнить репорт на сайте:
 https://www.bitdefender.com/submit/
 
 Сервис убрал сайт из своего списка на следующее утро
 
-#### Emsisoft
+#### 3. Emsisoft
 
 Можно написать в службу поддержки support@emsisoft.com с темой "False positives"
 либо написать название сайта здесь https://support.emsisoft.com/forum/58-false-positives/ и они проверят его.
 
-#### DNS8
+#### 4. DNS8
 
 Можно написать в службу поддержки dns8@layer8.pt с темой "False positives"
 
 Сервис убрал сайт из своего списка к концу того же дня
 
-#### Forcepoint ThreatSeeker
+#### 5. Forcepoint ThreatSeeker
 
 Можно написать в службу поддержки suggest@forcepoint.com с темой "False positives".
 

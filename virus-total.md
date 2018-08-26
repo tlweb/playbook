@@ -24,7 +24,7 @@
 - Dr.Web CureIt!
 - Ai-Bolit
 
-После проверок программами нужно проверить, не остались ли подозрительные файлы. В поисках поможет список (https://www.virustotal.com/#/domain/your-domain.ru) найденных вредоносов 
+После проверок программами нужно проверить, не остались ли подозрительные файлы. В поисках поможет список (https://www.virustotal.com/#/domain/YOUR-DOMAIN.RU) найденных вредоносов 
 
 2. Отправляем заявки сервисам, выявившем заражение
 
@@ -35,14 +35,14 @@
 - Сообщаем им в письме с темой "False positives" просьбу примерно следующего содержания (можете сформулировать по-своему):
 
 Пример текста письма:
-Hello, my site lesnyeozera.com is in the infected list:
+Hello, my site YOUR-DOMAIN.RU is in the infected list:
 https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156c82423cda2401e213/detection
 We conducted his treatment.
 Can you double-check my site and remove it from the list of viruses of your service (тут название их сервиса, чтобы они понимали, что мы обращаемся именно к ним, а не просим удалить нас из всех среагировавших сервисов)?
 Thank you.
 
 Перевод:
-Привет, мой сайт lesnyeozera.com попал в список зараженных:
+Привет, мой сайт YOUR-DOMAIN.RU попал в список зараженных:
 https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156c82423cda2401e213/detection
 Мы провели его лечение.
 Можете ли вы перепроверить мой сайт и удалить его из списка вирусных вашего сервиса (Название сервиса)?

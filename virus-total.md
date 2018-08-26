@@ -34,59 +34,54 @@
 - Находим в контактах email саппорта
 - Сообщаем им в письме с темой "False positives" просьбу примерно следующего содержания (можете сформулировать по-своему):
 
-Пример текста письма:
-Hello, my site YOUR-DOMAIN.RU is in the infected list:
-https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156c82423cda2401e213/detection
-We conducted his treatment.
-Can you double-check my site and remove it from the list of viruses of your service (тут название их сервиса, чтобы они понимали, что мы обращаемся именно к ним, а не просим удалить нас из всех среагировавших сервисов)?
+Пример текста письма:  
+Hello, my site YOUR-DOMAIN.RU is in the infected list:  
+https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156c82423cda2401e213/detection  
+We conducted his treatment.  
+Can you double-check my site and remove it from the list of viruses of your service (тут название их сервиса, чтобы они понимали, что мы обращаемся именно к ним, а не просим удалить нас из всех среагировавших сервисов)?  
 Thank you.
 
-Перевод:
-Привет, мой сайт YOUR-DOMAIN.RU попал в список зараженных:
-https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156c82423cda2401e213/detection
-Мы провели его лечение.
-Можете ли вы перепроверить мой сайт и удалить его из списка вирусных вашего сервиса (Название сервиса)?
-Спасибо.
+Перевод:  
+Привет, мой сайт YOUR-DOMAIN.RU попал в список зараженных:  
+https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156c82423cda2401e213/detection    
+Мы провели его лечение.  
+Можете ли вы перепроверить мой сайт и удалить его из списка вирусных вашего сервиса (Название сервиса)?  
+Спасибо.  
 
 #### Частные случаи:
 
-##### Sophos
+#### Sophos
 
 Можно заполнить репорт на сайте:
 https://secure2.sophos.com/en-us/support/submit-a-sample.aspx
 
 Так как мы не клиенты Sophos, ждем максимум 5 рабочих дней (в действительности пришлось ждать около 7).
 
-##### BitDefender
+#### BitDefender
 
 Можно заполнить репорт на сайте:
 https://www.bitdefender.com/submit/
 
 Сервис убрал сайт из своего списка на следующее утро
 
-##### Emsisoft
+#### Emsisoft
 
 Можно написать в службу поддержки support@emsisoft.com с темой "False positives"
 либо написать название сайта здесь https://support.emsisoft.com/forum/58-false-positives/ и они проверят его.
 
-##### DNS8
+#### DNS8
 
 Можно написать в службу поддержки dns8@layer8.pt с темой "False positives"
 
 Сервис убрал сайт из своего списка к концу того же дня
 
-##### Forcepoint ThreatSeeker
+#### Forcepoint ThreatSeeker
 
 Можно написать в службу поддержки suggest@forcepoint.com с темой "False positives".
 
 Забавный момент - этот мейл на их сайте я не нашел, а с того, что нашел - за 3-4 дня не дождался ответа.
 
-Поэтому написал им сообщением в фейсбуке, в котором они через 4 дня ответили, что сайт из списка зараженных исключен, и порекомендовали вышеуказанный мейл на будущее.
-
-
-##### Вывод
-Исключать сайты из списка "недоверительных" Virus Total - легко. Больше времени тратится на ожидание ответа сервисов, чем на лечение сайта.
-
+Поэтому написал им сообщением в [фейсбуке](https://www.facebook.com/ForcepointLLC), в котором они через 4 дня ответили, что сайт из списка зараженных исключен, и порекомендовали вышеуказанный мейл на будущее.
 
 
 

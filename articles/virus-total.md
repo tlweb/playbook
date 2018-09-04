@@ -3,7 +3,9 @@
 Зараженный сайт не продает.  
 Сайт у постетителя не откроется в браузере, или откроется, но нанесет вред его устройству.
 ![](http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/kaspersky-blocked.png)
-
+<p align="center">
+  <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/kaspersky-blocked.png">
+</p>
 Проверить сайт на вирусы можно с помощью [VirusTotal](https://www.virustotal.com/ru/). Сервис показывает, числится ли сайт в базах данных антивирусных программ.
 
 
@@ -14,6 +16,9 @@
 
 ### Что делать, если "Обнаружено угроз: N"
 ![](http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/virus-total-before.jpg)
+<p align="center">
+  <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/virus-total-before.jpg">
+</p>
 - Вылечить сайт;
 - Отправить заявку сервису на пересканирование.
 

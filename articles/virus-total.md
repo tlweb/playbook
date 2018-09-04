@@ -2,7 +2,6 @@
 
 Зараженный сайт не продает.  
 Сайт у постетителя не откроется в браузере, или откроется, но нанесет вред его устройству.
-![](http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/kaspersky-blocked.png)
 <p align="center">
   <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/kaspersky-blocked.png">
 </p>
@@ -15,7 +14,6 @@
 Это не гарантирует, что вирусов на сайте нет, зато сайт всегда будет открываться в браузерах посетителей.
 
 ### Что делать, если "Обнаружено угроз: N"
-![](http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/virus-total-before.jpg)
 <p align="center">
   <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/virus-total-before.jpg">
 </p>

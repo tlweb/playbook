@@ -9,6 +9,9 @@
 
 
 ### Что делать, если "Угроз не обнаружено"
+<p align="center">
+  <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/virus-total-after.jpg">
+</p>
 Ничего.   
 Значит ни один из сервисов, которые используются в Virus Total (Yandex Safebrowsing, Google Safebrowsing, Kaspersky, и другие - ~70 шт.) не выявил заражения.  
 Это не гарантирует, что вирусов на сайте нет, зато сайт всегда будет открываться в браузерах посетителей.

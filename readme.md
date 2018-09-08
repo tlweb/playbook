@@ -20,21 +20,10 @@ Playbook - ресурс, на котором опубликована общед
 
 ***
 
-# Команда в цифрах 
-
-Данные  | Цифры 
-------------- | -------------
-Всего сотрудников | 	39
-Описание команд | R&D, Команда разработки, Команда сопровождения, Команда интеграций
-Разработано сайтов | 500+
-
-***
-
-
-# Полезные ссылки
+# Подробнее
 
 - [Миссия и ценности TLWeb](https://github.com/tlweb/playbook/blob/master/mission-and-values.md)
-- [Структура команд]
+- [Команда](https://github.com/tlweb/playbook/blob/master/command/command.md)
 - [Процессы и стандарты разработки](https://github.com/tlweb/playbook/blob/master/processes-and-standards.md)
 - [Достижения](https://github.com/tlweb/playbook/blob/master/achievements.md)
 - [Стек технологий](https://github.com/tlweb/playbook/blob/master/tech-stack.md) 

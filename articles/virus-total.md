@@ -54,7 +54,7 @@ https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156
 
 #### 3. Часто приходится лечить:
 
-##### Sophos (5 дней на обработку)
+##### Sophos (5 дней на обработку заявки)
 https://secure2.sophos.com/en-us/support/submit-a-sample.aspx
 
 ##### BitDefender (1 день)

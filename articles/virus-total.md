@@ -66,6 +66,7 @@ https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156
 <b>Forcepoint ThreatSeeker</b> (1 день) Пишем в suggest@forcepoint.com с темой "False positives", или на 
 <a href="https://www.facebook.com/ForcepointLLC" target="_blank">страницу</a>
 
-<b><a href="https://threatcenter.crdf.fr/false_positive.html " target="_blank">CRDF</a></b> (4 часа)
+<b>[CRDF](https://threatcenter.crdf.fr/false_positive.html){:target="_blank"}</b> (4 часа)
+
 
 

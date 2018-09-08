@@ -5,44 +5,41 @@
 <p align="center">
   <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/kaspersky-blocked.png">
 </p>
-Проверить сайт на вирусы можно с помощью [VirusTotal](https://www.virustotal.com/ru/). Сервис показывает, числится ли сайт в базах данных антивирусных программ.
+Проверить сайт на вирусы можно с помощью <a target="_blank" href="https://www.virustotal.com/ru/">VirusTotal</a>. 
+Сервис показывает, числится ли сайт в базах данных антивирусных программ.   
+Проверьте ваш сайт на этом сервисе, это быстро.
 
-
-### Что делать, если "Угроз не обнаружено"
+### Если "Угроз не обнаружено" - можете дальше не читать.
 <p align="center">
   <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/virus-total-after.jpg">
 </p>
-Ничего.   
-Значит ни один из сервисов, которые используются в Virus Total (Yandex Safebrowsing, Google Safebrowsing, Kaspersky, и другие - ~70 шт.) не выявил заражения.  
-Это не гарантирует, что вирусов на сайте нет, зато сайт всегда будет открываться в браузерах посетителей.
+Ни один из сервисов в Virus Total (Yandex Safebrowsing, Google Safebrowsing, Kaspersky, и другие - ~70 шт.) не выявил заражения.  
 
-### Что делать, если "Обнаружено угроз: N"
+
+### Если "Обнаружено угроз: N"
 <p align="center">
   <img src="http://atomicdocs.dev2.travelline.ru/resources/images/virus-total/virus-total-before.jpg">
 </p>
-- Вылечить сайт;
-- Отправить заявку сервису на пересканирование.
+Вылечим сайт и отправим заявку в каждый из сервисов на удаление из блек-листа.
 
-Разберем процесс по пунктам.
-
-#### Выкачиваем сайт с помощью FTP/SFTP/SSH и проверяем программами:
+#### 1. Выкачаем сайт и проверим программами:
 
 - Kaspersky Internet Security
 - Dr.Web CureIt!
 - Ai-Bolit
+- добавьте свою, если хотите
 
-После проверок программами нужно проверить, не остались ли подозрительные файлы. В поисках поможет список (https://www.virustotal.com/#/domain/YOUR-DOMAIN.RU) найденных вредоносов 
+После чистки нужно посмотреть в папки и проверить, не остались ли подозрительные файлы.
+В поисках поможет список (https://www.virustotal.com/#/domain/YOUR-DOMAIN.RU) найденных вредоносов 
 
-#### Отправляем заявки сервисам, выявившим заражение
+#### 2. Теперь расскажем сервисам, что сайт больше не заразный
 
-Общий алгоритм:
+Вот шаги:
+- Находим ресурс <a target="_blank" href="https://support.virustotal.com/hc/en-us/articles/115002146809-Contributors)">здесь</a>;
+- Находим на сайте email техподдержки, или страницу заполнения заявки;
+- Сообщаем им в письме с темой "False positives" просьбу (можете сформулировать по-своему):
 
-- Находим ресурс [здесь](https://support.virustotal.com/hc/en-us/articles/115002146809-Contributors)
-- Находим в контактах email саппорта
-- Сообщаем им в письме с темой "False positives" просьбу примерно следующего содержания (можете сформулировать по-своему):
-
-Пример текста письма:  
-Hello, my site YOUR-DOMAIN.RU is in the infected list:  
+Hello, my site YOUR-DOMAIN.RU (заменить на ваш домен) is in the infected list:  
 https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156c82423cda2401e213/detection  
 We conducted his treatment.  
 Can you double-check my site and remove it from the list of viruses of your service (тут название их сервиса, чтобы они понимали, что мы обращаемся именно к ним, а не просим удалить нас из всех среагировавших сервисов)?  
@@ -55,46 +52,26 @@ https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156
 Можете ли вы перепроверить мой сайт и удалить его из списка вирусных вашего сервиса (Название сервиса)?  
 Спасибо.  
 
-#### Частные случаи:
+#### 3. Часто встречающиеся при лечении сервисы:
 
-#### 1. Sophos
-
-Можно заполнить репорт на сайте:
+##### Sophos (5 дней на обработку)
 https://secure2.sophos.com/en-us/support/submit-a-sample.aspx
 
-Так как мы не клиенты Sophos, ждем максимум 5 рабочих дней (в действительности пришлось ждать около 7).
-
-#### 2. BitDefender
-
-Можно заполнить репорт на сайте:
+##### BitDefender (1 день)
 https://www.bitdefender.com/submit/
 
-Сервис убрал сайт из своего списка на следующее утро
+##### Emsisoft (1 день)
+Пишем в support@emsisoft.com с темой "False positives"
+или пишем название сайта здесь https://support.emsisoft.com/forum/58-false-positives/
 
-#### 3. Emsisoft
+##### DNS8 (1 день)
+Пишем в dns8@layer8.pt с темой "False positives"
 
-Можно написать в службу поддержки support@emsisoft.com с темой "False positives"
-либо написать название сайта здесь https://support.emsisoft.com/forum/58-false-positives/ и они проверят его.
+##### Forcepoint ThreatSeeker
+Пишем в suggest@forcepoint.com с темой "False positives".
+или на страницу в https://www.facebook.com/ForcepointLLC
 
-#### 4. DNS8
+##### CRDF (4 часа)
+https://threatcenter.crdf.fr/false_positive.html 
 
-Можно написать в службу поддержки dns8@layer8.pt с темой "False positives"
-
-Сервис убрал сайт из своего списка к концу того же дня
-
-#### 5. Forcepoint ThreatSeeker
-
-Можно написать в службу поддержки suggest@forcepoint.com с темой "False positives".
-
-Забавный момент - этот мейл на их сайте я не нашел, а с того, что нашел - за 4 дня не дождался ответа.
-
-Поэтому написал им сообщением в [фейсбуке](https://www.facebook.com/ForcepointLLC), в котором они через 4 дня ответили, что сайт из списка зараженных исключен, и порекомендовали вышеуказанный мейл на будущее.
-
-#### 6. CRDF
-
-Заполнить заявку: https://threatcenter.crdf.fr/false_positive.html 
-
-Тут же указывается email, на который через 3 минуты придет ответ - результат их проверки и удаления из базы данных.
-
-Для обновления потребуется около 4 часов.
 

@@ -54,24 +54,17 @@ https://www.virustotal.com/#/url/968baed364f2caac4209589e34aea92a86f173da1675156
 
 #### 3. Часто приходится лечить:
 
-##### Sophos (5 дней на обработку заявки)
-https://secure2.sophos.com/en-us/support/submit-a-sample.aspx
+<b>Sophos</b> (5 дней на обработку заявки) https://secure2.sophos.com/en-us/support/submit-a-sample.aspx
 
-##### BitDefender (1 день)
-https://www.bitdefender.com/submit/
+<b>BitDefender</b> (1 день) https://www.bitdefender.com/submit/
 
-##### Emsisoft (1 день)
-Пишем в support@emsisoft.com с темой "False positives"
+<b>Emsisoft</b> (1 день) Пишем в support@emsisoft.com с темой "False positives"
 или пишем название сайта здесь https://support.emsisoft.com/forum/58-false-positives/
 
-##### DNS8 (1 день)
-Пишем в dns8@layer8.pt с темой "False positives"
+<b>DNS8</b> (1 день) Пишем в dns8@layer8.pt с темой "False positives"
 
-##### Forcepoint ThreatSeeker
-Пишем в suggest@forcepoint.com с темой "False positives".
-или на страницу в https://www.facebook.com/ForcepointLLC
+<b>Forcepoint ThreatSeeker</b> (1 день) Пишем в suggest@forcepoint.com с темой "False positives", или на <a target="_blank" href="https://www.facebook.com/ForcepointLLC">страницу</a>
 
-##### CRDF (4 часа)
-https://threatcenter.crdf.fr/false_positive.html 
+<b>CRDF</b> (4 часа) https://threatcenter.crdf.fr/false_positive.html 
 
 
